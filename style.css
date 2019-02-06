@@ -11,9 +11,14 @@ body {
   color: black;
   background-color: black;
   background-image: url("brock.jpg");
-  background-size: 95%;
+  background-size: 90%;
+
 }
+
 video {
   width:100%;
 }
-
+.background {
+  width: 50%;
+  height: 50%;
+}
